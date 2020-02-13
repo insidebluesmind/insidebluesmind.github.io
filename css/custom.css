@@ -1,0 +1,13 @@
+.gallery-img{
+    width: 100%;
+}
+
+.img-col-right{
+    padding-top: 2rem;
+    padding-right: 10%;
+}
+
+.img-col-left{
+    padding-top: 2rem;
+    padding-left: 10%;
+}

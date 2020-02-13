@@ -313,7 +313,7 @@ header {
     header .colorlib-navbar-brand .colorlib-logo {
       font-size: 24px;
       text-transform: uppercase;
-      color: #000;
+      color: black;
       font-family: "Playfair Display", Georgia, serif;
       font-weight: 700;
       letter-spacing: 10px;
@@ -487,7 +487,7 @@ header {
   .about-flex .col-half {
     width: 50%;
     display: block;
-    overflow: scroll; }
+    overflow: hidden; }
   .about-flex .about-img {
     z-index: -1; }
   .about-flex .display-t {
